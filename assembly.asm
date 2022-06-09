@@ -6,7 +6,7 @@ processorArchitecture="X86"
 name="InstallProgram" 
 type="win32" 
 /> 
-<description>Install Program</description> 
+<description>Alfine</description> 
 <dependency> 
 <dependentAssembly> 
 <assemblyIdentity 
